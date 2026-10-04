@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @butterflvys
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android Studio with ka iyo
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me on instagram : @yraya.ay
+Hi, I'm Aya! 👋
 
-<!---
-butterflvys/butterflvys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Information System Student at Cakrawala University
+I'm interested in Web Development, UI/UX, and Product Development.
+
+🌱 Currently learning
+• HTML, CSS, JavaScript
+• Git & GitHub
+• UI/UX Design
+• Information Systems
+
+🛠 Tools
+Figma • Canva • GitHub • VS Code
